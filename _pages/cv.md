@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Texas A&M University, Dec 2024 (expected)
+* B.S. in Computer Science, Oregon State University, 2023
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Work experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Jun 2022-Mar 2023: Teaching Assistant
+  * Oregon State University
+  * Duties includes: Responsible for grading, reviewing assignments. Design and implement strategies to enhance student engagement. Focus on teaching interaction and communication to achieve significant results, and have improved my personal communication abilities and teaching skills.
+
+* Oct 2022-Jun 2023: Research Assistant
+  * Oregon State University
+  * Duties included: Developed a supply chain forecasting model for the automotive industry, utilizing probabilistic programming, supply chain forecasting, and data analysis techniques to optimize manufacturing processes and reduce inventory backlogs. This experience enhanced my theoretical knowledge and practical problem-solving abilities. 
+  * Supervisor: Karthika Mohan
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python, C/C++
+* PyTorch, Docker, Git, Gym, OpenCV
+* Machine Learning, Reinforcement Learning, Computer Vision
+
