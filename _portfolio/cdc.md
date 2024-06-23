@@ -4,7 +4,6 @@ excerpt: "compress image by using conditional diffusion model<br/><img src='/ima
 collection: portfolio
 ---
 
-# Conditional Diffusion Compresion
 
 A Reporece of the project "Conditional Diffusion Compression"
 Github project Link: [https://github.com/Jaron-U/conditional_diffusion_compression](https://github.com/Jaron-U/conditional_diffusion_compression)

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: # "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ Education
 
 Projects
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -37,3 +37,5 @@ Skills
 * PyTorch, Docker, Git, Gym, OpenCV
 * Machine Learning, Reinforcement Learning, Computer Vision
 
+
+Download my CV [here](https://jaron-u.github.io/files/JianglongYu_Resume.pdf)
