@@ -9,7 +9,7 @@ tags:
 
 ---
 
-# Upload dataset to Hugging Face
+## Upload dataset to Hugging Face
 
 ## Register on Hugging Face
 Create a account on Hugging Face and login to your account.
