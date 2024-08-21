@@ -21,3 +21,6 @@ The decoder is a DDPM model. It uses the output from the VAE as the condition fo
 
 ## Some changes
 The method of reading the dataset has been modified. Instead of direct extraction, images are converted to a numpy structure during extraction and saved in h5 file format. This file format allows database-like access, reducing the number of files without affecting batch loading.
+
+This is the ppt of the project: 
+If the embedded PDF below does not load, you can <u><a href="https://jaron-u.github.io/files/cdc_presentation.pdf">download it here.</a></u> <br/> <embed src="https://jaron-u.github.io/files/cdc_presentation.pdf" type="application/pdf" width="100%" />
