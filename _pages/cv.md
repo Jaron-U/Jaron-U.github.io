@@ -22,6 +22,14 @@ Projects
 
 Work experience
 ======
+* Jun 2024-Present: Research Assistant
+  * Texas A&M University
+  * Duties includes: 
+    - Responsible for designing and implementing deep learning algorithms using the PyTorch framework for lossy compression of Channel State Information (CSI) to optimize data transmission efficiency in communication systems.
+    - Conduct performance comparison experiments with existing benchmark models to assess and refine the effectiveness of the compression algorithms.
+    - Perform necessary ablation studies to analyze the impact of different model components on compression performance, progressively optimizing the model structure.
+    - Currently, the project is in the development and testing phase, with preliminary experiments demonstrating potential advantages in compression efficiency and data recovery quality.
+
 * Jun 2022-Mar 2023: Teaching Assistant
   * Oregon State University
   * Duties includes: Responsible for grading, reviewing assignments. Design and implement strategies to enhance student engagement. Focus on teaching interaction and communication to achieve significant results, and have improved my personal communication abilities and teaching skills.
